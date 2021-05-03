@@ -1,0 +1,12 @@
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\bin\Debug\CompresionImagenFractal.exe.config
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\bin\Debug\CompresionImagenFractal.exe
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\bin\Debug\CompresionImagenFractal.pdb
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionFractal.ComprSettingsForm.resources
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionFractal.MainForm.resources
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionFractal.ProgressForm.resources
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionImagenFractal.Properties.Resources.resources
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionFractal.ResultForm.resources
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionImagenFractal.csproj.GenerateResource.Cache
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionImagenFractal.exe
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionImagenFractal.pdb
+C:\Users\SS\documents\visual studio 2015\Projects\CompresionImagenFractal\CompresionImagenFractal\obj\Debug\CompresionImagenFractal.csprojResolveAssemblyReference.cache
